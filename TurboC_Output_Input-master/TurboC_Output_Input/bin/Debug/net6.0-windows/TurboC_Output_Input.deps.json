@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TurboC_Output_Input/1.0.0": {
+        "runtime": {
+          "TurboC_Output_Input.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TurboC_Output_Input/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
